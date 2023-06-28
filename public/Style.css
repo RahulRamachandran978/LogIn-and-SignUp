@@ -1,0 +1,68 @@
+*{
+    margin-top: -23px;
+}
+.image{
+    width: 100%;
+    background-image: url('assets/photo-1453928582365-b6ad33cbcf64.jpg'); 
+    height: 670px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    
+}
+.border{
+    flex-direction: column;
+  border-radius: 1em;
+  background: #ffffff;
+  box-shadow: 8px 8px 40px 0px #00000026;
+  padding: 5em 4em;
+}
+.title{
+    color: black;
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+}
+.btn{
+    height: 45px;
+    margin-top: 15px;
+    width: 132px;
+}
+
+#login{
+ padding-top: 100px;
+ 
+}
+.utext{
+    color:black;
+    font-size: 30px;
+}
+.link{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 400;
+}
+.innner{
+    background-image: url('assets/work-1.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    height: 610px;
+    width: 100%;
+}
+.form-group{
+    border: 2px solid #4090db;
+    border-radius: 10px;
+}
+#loginn{
+    margin-top: 50px;
+    border-radius: 15px;   
+}
+#button{
+    background: #4090db;
+    font-weight: 500;
+}
+#button:hover{
+    background: green;
+}
+
